@@ -4,6 +4,12 @@
 
 This project provides a reproducible Google Earth Engine (GEE) workflow to examine land-cover patterns and vegetation-condition differences in Nairobi County, Kenya.
 
+## Workflow illustration
+
+![Nairobi County GEE workflow](workflow.svg)
+
+This is a workflow diagram, not an executed map screenshot. Genuine Earth Engine map and Console screenshots should be added after running the script.
+
 ## Study design
 
 - **Study area:** Nairobi County, Kenya.
