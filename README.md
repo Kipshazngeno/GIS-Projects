@@ -41,6 +41,7 @@ These project records describe the project context and evidence to be assembled.
 2. [Busia climate and disease risk mapping](projects/busia-climate-disease-risk-mapping.md) — integration of climate, environmental, epidemiological, population and health-service information.
 3. [Urban ecosystem restoration](projects/urban-ecosystem-restoration.md) — wetland encroachment, river-corridor degradation, green infrastructure and urban land-cover change.
 4. [UNCCD reporting support](projects/unccd-reporting-support.md) — geospatial evidence, land degradation indicators and reporting capacity support.
+5. [Nairobi County LULC change and vegetation condition (GEE)](projects/nairobi-lulc-change-gee/) — Dynamic World, Sentinel-2 and reproducible Earth Engine analysis.
 
 ## Proposal and project-development competencies
 
