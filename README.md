@@ -1,142 +1,108 @@
-# Geospatial Portfolio | Kipkirui Ngeno
+# Geospatial, Climate & Environmental Solutions Portfolio | Kipkirui Ngeno
 
-**GIS & Spatial Analysis · Remote Sensing · Digital Photogrammetry · UAV Mapping · GeoAI · Climate & Environmental Applications**
+**GIS & Spatial Analysis · Remote Sensing · GeoAI · Digital Photogrammetry · UAV Mapping · Climate Risk · Land Degradation · Proposal Development**
 
-Welcome. This repository presents selected geospatial workflows, technical manuals, mapping outputs and applied analyses. It is intended as a professional portfolio for consulting assignments, technical collaborations, research and geospatial capacity development.
+Geospatial professional working across technical GIS and remote sensing delivery, environmental applications, GeoAI implementation and the design of geospatial projects. Contributions span technical methodology development, geospatial analysis, workplans and deliverables, budget preparation, project coordination frameworks and full proposal development.
 
-My work brings together geospatial data acquisition and management, satellite and aerial imagery analysis, photogrammetric production, environmental applications, and the communication of technical methods through training materials and project documentation.
+> **Portfolio integrity:** This repository distinguishes personal technical work, proposal contributions, training resources and illustrative workflows. Project pages are portfolio records; exact responsibilities, methods, outputs, dates and results must be completed against verifiable project records. Do not publish confidential material or unsupported impact/accuracy claims.
 
-> **Portfolio note:** Repository items may represent practical project outputs, workflow demonstrations or instructional resources. Each case study should identify its role (project delivery, technical contribution, training material or demonstration) and should not imply client delivery or independent validation unless documented.
+## Professional profile
 
----
+My work connects geospatial technologies with practical responses to climate, land and environmental challenges. I contribute across the project lifecycle: interpreting Terms of Reference; framing problems; developing technical methodologies and workplans; identifying datasets and analytical approaches; preparing deliverables and budgets; supporting implementation coordination; and undertaking or contributing to technical analysis and capacity development.
 
-## Professional focus
+## Core capabilities
 
-| Practice area | Examples of work represented in this portfolio |
+| Capability | Focus |
 |---|---|
-| **GIS & spatial analysis** | Vector and raster data management, spatial analysis, cartography, geodatabases and map production |
-| **Remote sensing** | Landsat and multispectral imagery, image composites, spectral indices, image mosaicking and LULC analysis |
-| **Digital photogrammetry & UAV mapping** | Aerial and drone image workflows, image orientation, aerial triangulation, orthomosaics, elevation models and point clouds |
-| **GeoAI & spatial modelling** | AI/ML-assisted geospatial analysis, classification and applied training; add reproducible notebooks and validated examples as they are published |
-| **Climate & environmental applications** | Climate risk and vulnerability mapping, land degradation, land cover change, ecosystem and natural-resource monitoring |
-| **Technical proposals & project design** | Geospatial methodology development, technical workplans, deliverables, data and stakeholder approaches, implementation planning and technical inputs to budgets |
-| **Capacity development** | Course design, technical manuals, practical exercises, professional training and knowledge transfer |
+| GIS & spatial analysis | Spatial data management, vector/raster analysis, geodatabases, cartography and decision-support mapping |
+| Remote sensing & LULC | Satellite imagery, preprocessing, spectral indices, classification, land-cover mapping and change analysis |
+| Photogrammetry & UAV | Image orientation, triangulation, orthomosaics, elevation models, point clouds and drone workflows |
+| GeoAI | Geospatial model implementation, spatial data workflows, model validation and technical design of GeoAI approaches |
+| Climate & environment | Climate risk, vulnerability, land degradation, ecosystem restoration and disaster risk management |
+| Proposal & project design | Full proposal development, methodology, workplans, deliverables, budgets and implementation frameworks |
+| Coordination & capacity development | Stakeholder engagement, technical reporting, training and knowledge transfer |
 
-## Repository map
+## Thematic areas
 
-The repository is being organised into the following practice areas. Existing resources are retained in the repository root for now so that current links are not broken; the folders below provide a structured index while files are progressively curated.
+- Climate change adaptation, resilience and climate-risk information
+- Climate vulnerability, hazard and exposure assessment
+- Land degradation assessment and restoration planning
+- Land use/land cover mapping and change analysis
+- Ecosystem restoration, wetland and river-corridor monitoring
+- Disaster risk management and climate-related health risk mapping
+- GeoAI for environmental and geospatial applications
+- UNCCD reporting support and land degradation monitoring
 
-### 01 · GIS, vector & raster analysis
-- Spatial data preparation, management, analysis and cartographic outputs.
-- Vector and raster workflows, map layouts and decision-support products.
+## Selected project experience
 
-### 02 · Satellite remote sensing & LULC
-- Landsat data acquisition and preparation.
-- QGIS image visualisation and colour composites.
-- Raster mosaicking and clipping to an area of interest.
-- Spectral indices and land use/land cover mapping.
-- Very-high-resolution imagery applications, including coffee probability mapping.
+These project records describe the project context and evidence to be assembled. Complete exact personal roles and verified outputs before presenting detailed claims.
 
-### 03 · Digital photogrammetry & UAV mapping
-- Traditional aerial photogrammetry and digital image processing.
-- Drone mission planning and image acquisition.
-- Project setup, camera/sensor information and image orientation.
-- Tie points, pass points, ground control and aerial triangulation.
-- Orthophotos and orthomosaics, DSM/DTM, contours, point clouds and 3D products.
-- ArcGIS Pro Ortho Mapping and Pix4D workflows.
+1. [Eswatini Climate Atlas](projects/eswatini-climate-atlas.md) — climate information, climate-risk assessment and decision-support mapping.
+2. [Busia climate and disease risk mapping](projects/busia-climate-disease-risk-mapping.md) — integration of climate, environmental, epidemiological, population and health-service information.
+3. [Urban ecosystem restoration](projects/urban-ecosystem-restoration.md) — wetland encroachment, river-corridor degradation, green infrastructure and urban land-cover change.
+4. [UNCCD reporting support](projects/unccd-reporting-support.md) — geospatial evidence, land degradation indicators and reporting capacity support.
 
-### 04 · Climate, land degradation & environmental applications
-- Climate hazard, exposure, vulnerability and risk mapping.
-- Land degradation and land degradation neutrality support.
-- Land use/land cover change and ecosystem monitoring.
-- Environmental indicators, spatial evidence and decision-support mapping.
+## Proposal and project-development competencies
 
-### 05 · Technical proposals & project design
-- Selected, non-confidential examples of geospatial technical contributions to proposals.
-- Problem framing, objectives, methodology, work packages, deliverables, implementation schedules, stakeholder engagement, data requirements, quality assurance and monitoring approaches.
-- Proposal materials should be anonymised and shared only where disclosure is authorised.
+- Full technical proposal development and consolidation.
+- Interpretation of Terms of Reference and problem definition.
+- Technical methodology and workstream development.
+- Geospatial data, tools and analytical-method selection.
+- Workplan, milestones and deliverable development.
+- Budget preparation and technical resource planning.
+- Project coordination and implementation frameworks.
+- Integration of GIS, remote sensing, UAV and GeoAI into environmental project designs.
 
-### 06 · Training, manuals & capacity development
-- Technical manuals, course outlines, practical exercises and training resources.
-- GIS, remote sensing, photogrammetry, UAV mapping and GeoAI learning materials.
+See the [proposal development framework](05-technical-proposals-project-design/proposal-development-framework.md).
 
----
+## Repository structure
 
-## Featured resources currently in this repository
+| Folder | Contents |
+|---|---|
+| `01-gis-vector-raster/` | GIS, vector/raster analysis and cartography |
+| `02-satellite-remote-sensing-lulc/` | Satellite imagery, spectral indices and LULC |
+| `03-digital-photogrammetry-uav/` | Aerial photogrammetry and UAV workflows |
+| `04-climate-land-degradation-environment/` | Climate, land and environmental applications |
+| `05-technical-proposals-project-design/` | Proposal development and project design |
+| `06-training-manuals-capacity-development/` | Training resources and capacity development |
+| `07-geoai/` | GeoAI methods, notebooks and demonstrations |
+| `projects/` | Selected project case studies |
+| `templates/` | Reusable documentation templates |
 
-### Satellite remote sensing and raster workflows
-1. **Landsat data acquisition** — `1. Data Acquisition_LandSat.pdf`
-2. **Remote sensing data visualisation and composites in QGIS** — `2. Adding and Visualizing Remote Sensing Data in QGIS_Composites.pdf`
-3. **Raster mosaicking and clipping to an AOI** — `3. Mosaic + Clipping to the AOI.pdf`
-4. **Spectral indices** — `4. Spectral Indices.pdf`
-5. **Kikuyu Sub-County LULC map** — `Kikuyu Sub County LULC.jpeg`
-6. **Nairobi true-colour composite** — `NAIROBI TRUE_COMPOSITE.jpg`
-7. **Nairobi NDMI output** — `NAIROBI_NDMI__QGIS..jpg`
-8. **Coffee probability mapping using VHR imagery and QGIS** — `A_JRC_Coffee Probability Mapping using VHR and QGIS .pdf`
+## Technical resources represented
 
-### Digital photogrammetry and drone image processing
-1. **Digital Photogrammetry and Drone Image Processing Manual (2026)** — `Digital Photogrammetry and Drone Image Processing Manual_2026 (1).pdf`
-2. **Drone Imagery Processing in ArcGIS Pro (June 2025)** — `Drone Image Procesing_manual in ArcGIS Pro.pdf`
+**Remote sensing & LULC:** Landsat acquisition, QGIS composites, mosaicking and clipping, NDVI/NDWI/NDBI/NDMI, LULC mapping and VHR imagery applications.
 
-The 2026 course manual describes a 10-day practical programme spanning traditional aerial photogrammetry and UAV workflows. Its outline includes project and camera setup, inner/relative/absolute orientation, tie/pass points, aerial triangulation and RMSE review, terrain extraction, orthophoto and mosaic production, drone flight planning, ArcGIS Pro processing and Pix4D outputs.
+**Photogrammetry & UAV:** Digital Photogrammetry and Drone Image Processing Manual (2026), Drone Imagery Processing in ArcGIS Pro (June 2025), image orientation, aerial triangulation, flight planning, block adjustment, DSM/DTM, contours and orthomosaics.
 
-The ArcGIS Pro manual documents an Ortho Mapping workflow using a DJI Phantom 4 RTK image collection acquired over the RCMRD complex in Nairobi in 2025. It covers workspace creation, block adjustment, optional GCP refinement, DSM generation and orthomosaic production. The exercise notes that GCPs were not used; therefore, it should be presented as a workflow demonstration, not as independently verified survey accuracy.
-
-### Workflow overview
-See **`The Processes Overview.pdf`** for the existing process overview resource.
-
----
+**GeoAI:** Reproducible examples will document input data, features, model selection, train/test strategy, validation metrics, limitations and outputs. Proposal concepts will be labelled separately from implemented models.
 
 ## Tools and technologies
 
 **GIS:** ArcGIS Pro, ArcMap, QGIS, ArcGIS Online  
-**Remote sensing:** Landsat, multispectral imagery, raster processing and spectral indices  
-**Photogrammetry & UAV:** ERDAS IMAGINE Photogrammetry, ArcGIS Pro Ortho Mapping, Pix4D, Agisoft Metashape and drone imagery workflows  
-**Field data & surveying:** GNSS/GPS, RTK, Total Station, ArcGIS Field Maps, Survey123, KoboCollect and ODK  
-**Data & programming:** Python and R  
-**GeoAI:** Geospatial machine-learning and AI-assisted workflows, with implementation examples to be documented individually
+**Remote sensing:** Landsat, multispectral imagery, raster analysis and spectral indices  
+**Photogrammetry/UAV:** ERDAS IMAGINE Photogrammetry, ArcGIS Pro Ortho Mapping, Pix4D, Agisoft Metashape  
+**Field data:** GNSS/GPS, RTK, Total Station, ArcGIS Field Maps, Survey123, KoboCollect and ODK  
+**Data/programming:** Python and R  
+**GeoAI:** Geospatial machine learning and AI-assisted analysis; list project-specific tools only where used.
 
-Software should be listed against a project only where it was actually used.
+## Project documentation standard
 
----
+Each substantial project should document its context, objectives, study area, dates, personal role, team context, data sources and licences, methodology, software versions, QA/validation, outputs, limitations, reproducibility and publication permissions. Use the [project case-study template](templates/project-case-study-template.md).
 
-## How each project should be documented
+## Responsible sharing
 
-For a professional, auditable portfolio, each substantial project should include:
-
-1. **Project title and date**
-2. **Context and problem statement**
-3. **Objective and study area**
-4. **My role and contribution** — clearly distinguish lead, contributor, analyst, trainer or author
-5. **Data sources and dates**
-6. **Methods and workflow**
-7. **Software, tools and relevant versions**
-8. **Quality assurance and validation** — including accuracy metrics where available
-9. **Outputs** — maps, orthomosaics, models, reports, dashboards or training materials
-10. **Results, limitations and practical relevance**
-11. **Reproducibility notes** — data availability, scripts and processing parameters where shareable
-
-Use the project case-study template in `templates/project-case-study-template.md`.
-
-## Professional practice and responsible sharing
-
-- Do not publish restricted, personal, security-sensitive or client-confidential data.
-- Obtain permission before publishing institutional logos, client names, project documents or deliverables.
-- Attribute datasets, imagery, software and source materials.
-- Identify illustrative or training datasets as such.
-- Do not claim positional accuracy, classification accuracy or project impact without supporting reports or metrics.
-- Where outputs are derived from third-party imagery, respect the imagery licence and attribution requirements.
-- Keep raw data, intermediate processing files and final deliverables clearly separated.
+- Publish only material authorised for public release.
+- Anonymise client or institutional work where required.
+- Do not upload restricted datasets, personal information, internal budgets or confidential proposals.
+- Attribute third-party data, imagery, software and source materials.
+- Distinguish proposal-stage methods from implemented work.
+- Report accuracy and impact only where supported by evidence.
 
 ## About
 
 **Kipkirui Ngeno**  
-Geospatial Specialist | GIS & Spatial Analysis | Remote Sensing | Digital Photogrammetry | UAV Mapping | GeoAI | Climate & Environmental Applications
+Geospatial, Climate & Environmental Solutions Specialist  
+GIS | Remote Sensing | GeoAI | Digital Photogrammetry | Climate Risk | Land Degradation | Proposal Development
 
-Professional interests include geospatial consultancy, climate resilience, land degradation, land use/land cover analysis, environmental monitoring, aerial mapping and technical capacity development.
-
-**GitHub:** [Kipshazngeno](https://github.com/Kipshazngeno)
-
----
-
-*This repository is a curated and evolving portfolio. New projects and case studies will be added as they are documented and cleared for public sharing.*
+[GitHub profile](https://github.com/Kipshazngeno)
