@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="850" viewBox="0 0 1500 850">
+<defs>
+  <style>
+    .bg{fill:#f5f6f3}.panel{fill:#fff;stroke:#cbd5d1;stroke-width:2;rx:18}
+    .navy{fill:#17324d}.green{fill:#315c46}.brown{fill:#79583d}
+    .head{font:700 34px Arial,sans-serif;fill:#fff}
+    .sub{font:400 18px Arial,sans-serif;fill:#e9f0ee}
+    .h{font:700 21px Arial,sans-serif;fill:#17324d}
+    .t{font:400 17px Arial,sans-serif;fill:#34434a}
+    .small{font:400 14px Arial,sans-serif;fill:#5c6a70}
+    .arrow{stroke:#526a68;stroke-width:3;fill:none;marker-end:url(#arr)}
+    .pill{fill:#eaf1ec;stroke:#b8c9bd;stroke-width:1.5;rx:12}
+  </style>
+  <marker id="arr" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#526a68"/></marker>
+</defs>
+<rect class="bg" width="1500" height="850"/>
+<rect x="0" y="0" width="1500" height="135" class="navy"/>
+<text x="65" y="58" class="head">NAIROBI COUNTY | LULC CHANGE &amp; VEGETATION CONDITION</text>
+<text x="67" y="96" class="sub">Google Earth Engine workflow · 2017–2019 baseline compared with 2023–2025</text>
+
+<rect x="65" y="185" width="300" height="165" class="panel"/>
+<text x="90" y="225" class="h">1 · Study area</text>
+<text x="90" y="260" class="t">Nairobi County boundary</text>
+<text x="90" y="290" class="t">FAO GAUL Level 1</text>
+<text x="90" y="322" class="small">Confirm boundary vintage and feature count</text>
+
+<rect x="425" y="185" width="300" height="165" class="panel"/>
+<text x="450" y="225" class="h">2 · Land-cover input</text>
+<text x="450" y="260" class="t">Dynamic World V1</text>
+<text x="450" y="290" class="t">10 m · 9 classes</text>
+<text x="450" y="322" class="small">Mask low-confidence pixels (top probability ≥ 0.60)</text>
+
+<rect x="785" y="185" width="300" height="165" class="panel"/>
+<text x="810" y="225" class="h">3 · Vegetation input</text>
+<text x="810" y="260" class="t">Sentinel-2 SR Harmonized</text>
+<text x="810" y="290" class="t">SCL cloud/shadow mask</text>
+<text x="810" y="322" class="small">Calculate median NDVI composites</text>
+
+<rect x="1145" y="185" width="290" height="165" class="panel"/>
+<text x="1170" y="225" class="h">4 · Time windows</text>
+<text x="1170" y="260" class="t">2017–2019</text>
+<text x="1170" y="290" class="t">2023–2025</text>
+<text x="1170" y="322" class="small">Multi-year comparison windows</text>
+
+<path d="M365 267 H415" class="arrow"/><path d="M725 267 H775" class="arrow"/><path d="M1085 267 H1135" class="arrow"/>
+
+<rect x="180" y="430" width="500" height="190" class="panel"/>
+<text x="210" y="472" class="h">5A · LULC analysis</text>
+<text x="210" y="510" class="t">• Period-specific modal class composites</text>
+<text x="210" y="543" class="t">• Class area statistics (hectares)</text>
+<text x="210" y="576" class="t">• Baseline-to-recent transition codes</text>
+<rect x="210" y="590" width="270" height="0" class="pill"/>
+
+<rect x="820" y="430" width="500" height="190" class="panel"/>
+<text x="850" y="472" class="h">5B · Vegetation analysis</text>
+<text x="850" y="510" class="t">• Period-specific median NDVI</text>
+<text x="850" y="543" class="t">• Recent minus baseline NDVI</text>
+<text x="850" y="576" class="t">• Interpret with seasonality and context</text>
+
+<path d="M1290 350 V390 H430 V420" class="arrow"/>
+<path d="M1290 350 V390 H1070 V420" class="arrow"/>
+
+<rect x="300" y="690" width="900" height="105" class="green" rx="18"/>
+<text x="340" y="732" class="head" style="font-size:24px">6 · Outputs &amp; validation</text>
+<text x="340" y="766" class="sub">GeoTIFF maps · CSV area tables · independent reference sampling · accuracy assessment · technical report</text>
+<path d="M430 620 V680" class="arrow"/><path d="M1070 620 V680" class="arrow"/>
+<text x="65" y="827" class="small">Portfolio workflow illustration — not a screenshot of executed Earth Engine results. Validate mapped change before making findings.</text>
+</svg>
