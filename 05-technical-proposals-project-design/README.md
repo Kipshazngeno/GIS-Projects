@@ -1,23 +1,38 @@
 # Technical Proposal Development & Project Design
 
-This section will contain selected, authorised and appropriately anonymised examples of technical contributions to proposals and project designs.
+This section documents professional contributions to the design of geospatial, climate and environmental projects, from interpreting a Terms of Reference to developing a technically coherent and implementable proposal.
 
-## Geospatial and environmental proposal themes
-- Climate change adaptation, resilience and climate-risk information
-- Land degradation, restoration and land degradation neutrality
-- Land use/land cover mapping and change analysis
-- Environmental and ecosystem monitoring
-- Flood, exposure, vulnerability and risk assessment
-- GIS, remote sensing, UAV and GeoAI-enabled data collection and analysis
+## Proposal-development competencies
+- Full proposal development and technical consolidation.
+- Problem analysis, context and intervention logic.
+- Technical methodology and workstream design.
+- Geospatial data inventory, acquisition and analytical approach.
+- GIS, remote sensing, UAV and GeoAI integration.
+- Workplans, milestones, deliverables and implementation schedules.
+- Budget preparation, resource planning and technical assumptions.
+- Project coordination, governance and stakeholder engagement frameworks.
+- Quality assurance, validation, monitoring and reporting approaches.
 
-## Proposal-development contributions to document
-- Interpretation of Terms of Reference and problem definition
-- Technical approach, methodology and workstream design
-- Data inventory, data management and quality assurance
-- Stakeholder engagement and institutional coordination approaches
-- Deliverables, milestones, implementation schedules and staffing inputs
-- Technical inputs to budgets, assumptions and resource plans
-- Monitoring, validation, reporting and knowledge-transfer approaches
+## Thematic experience
+- Climate change adaptation and resilience.
+- Climate vulnerability, hazard and exposure assessment.
+- Land degradation and restoration.
+- Land use/land cover mapping and change analysis.
+- Ecosystem restoration and conservation.
+- Disaster risk management.
+- GeoAI-enabled environmental and geospatial analysis.
+- UNCCD reporting support.
 
-## Confidentiality
-Publish only materials you are authorised to share. Remove client-sensitive information, personal data, unpublished budgets, internal comments and restricted institutional content. Where a proposal is not public, create a generic case study describing your contribution without disclosing protected details.
+## Selected project records
+- [Eswatini Climate Atlas](../projects/eswatini-climate-atlas.md)
+- [Busia climate and disease risk mapping](../projects/busia-climate-disease-risk-mapping.md)
+- [Urban ecosystem restoration](../projects/urban-ecosystem-restoration.md)
+- [UNCCD reporting support](../projects/unccd-reporting-support.md)
+
+These pages are portfolio records, not substitutes for approved project reports. Complete the exact role, methods, outputs, dates and results from verifiable project documentation before publishing detailed claims.
+
+## Proposal development framework
+Use the [Proposal Development Framework](proposal-development-framework.md) as a repeatable structure for technical proposals and project designs.
+
+## Confidentiality and attribution
+Only publish authorised, public or properly anonymised material. Do not disclose unpublished budgets, client-sensitive information, personal data, internal review comments, restricted datasets or institutional documents. Clearly distinguish personal contributions from team outputs and proposed methods from work actually implemented.
