@@ -13,6 +13,7 @@ This section curates applied geospatial work supporting climate resilience, envi
 - GeoAI-enabled environmental analysis.
 
 ## Selected project records
+- [Nairobi County LULC change and vegetation condition (Google Earth Engine)](../projects/nairobi-lulc-change-gee/)
 - [Eswatini Climate Atlas](../projects/eswatini-climate-atlas.md)
 - [Busia climate and disease risk mapping](../projects/busia-climate-disease-risk-mapping.md)
 - [Urban ecosystem restoration](../projects/urban-ecosystem-restoration.md)
